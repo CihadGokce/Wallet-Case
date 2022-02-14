@@ -256,7 +256,7 @@ fun AutoSizeText(
 private fun CreditCardPreview() {
     val creditCard = CreditCard(
         creditCardNumber = "4063823146878891",
-        holderName = "Umut Surname",
+        holderName = "Cihad Gökçe",
         expiration = "12/27",
         cvc = "123",
         bankName = " QNB FINANSBANK",
